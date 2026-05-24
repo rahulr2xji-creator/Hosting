@@ -1,10 +1,2 @@
-pyTelegramBotAPI
-flask
-psutil
-requests
-telethon
-pyrogram
-tgcrypto
-aiogram
-beautifulsoup4
-python-dotenv
+aiogram==3.13.1
+python-dotenv==1.0.1
