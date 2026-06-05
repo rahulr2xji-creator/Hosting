@@ -22,8 +22,8 @@ logger = logging.getLogger(__name__)
 
 # --- CONFIGURATION ---
 # Apne credentials .env file mein rakhein ya yahan direct dalein
-TOKEN = "8656659037:AAEyKUo0udampgPWAQZ2CIZ2-kZMVa7zCkM"
-ADMIN_ID = 7898402627
+TOKEN = "8182185818:AAF7MmjDpl-SPfLp0pOLqrxXkW96aS6A6Bg"
+ADMIN_ID = 7326248826
 
 BASE_DIR = Path(__file__).parent.absolute()
 SERVERS_DIR = BASE_DIR / 'vps_hosted_bots'
